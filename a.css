@@ -1,0 +1,65 @@
+.border{
+    border: 2px solid #ce1e62;
+    position: relative;
+    width: 40vw;
+    height: 65vh;
+    display: inline-block;
+    margin-left: 25vw;
+    margin-top: 25vh;
+    border-radius: 15px;
+    box-shadow: 5px 5px 13px plum;
+   }
+   .pic{
+    background-image:
+   url("https://wallpaperaccess.com/full/652933.png");
+    height: 98vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   }
+   .reg{
+    color: turquoise;
+    font-style: oblique;
+    font-size: 2vw;
+    padding: 20px;
+    display: inline-flex;
+   }
+   .fpass{
+    color: turquoise;
+    font-style: oblique;
+    font-size: 1vw;
+    margin-left: 28vw;
+    margin-bottom: 5vh;
+    display: block;
+   
+   }
+   a:link {
+    color: rgb(3, 104, 151);
+    text-decoration: none;
+    display: block;
+    }
+    .label{
+    border-radius: 10px;
+    display: block;
+    padding: 10px;
+    color: darkslateblue;
+    border: mediumslateblue;
+    }
+    input{
+    width: 250px;
+    height: 30px;
+    background-color: rgb(80, 39, 39);
+    border-radius: 10px;
+    border: rebeccapurple solid 2px;
+    }
+    button{
+    color:darkslateblue;
+    background-color:mediumpurple;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5vh 17vw;
+    border-radius: 8px;
+    display: block;
+}
